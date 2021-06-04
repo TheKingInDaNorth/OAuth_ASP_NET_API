@@ -6,3 +6,12 @@ C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\obj\Debug\SocialNetw
 C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\Dapper.dll
 C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\Dapper.pdb
 C:\Code\oauth-secure-asp-dot-net-api\src\SocialNetwork.Data\bin\Debug\Dapper.xml
+C:\Users\tuan.vo\Desktop\git folder\OAuth_ASP_NET_API\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll
+C:\Users\tuan.vo\Desktop\git folder\OAuth_ASP_NET_API\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pdb
+C:\Users\tuan.vo\Desktop\git folder\OAuth_ASP_NET_API\SocialNetwork\SocialNetwork.Data\bin\Debug\Dapper.dll
+C:\Users\tuan.vo\Desktop\git folder\OAuth_ASP_NET_API\SocialNetwork\SocialNetwork.Data\bin\Debug\Dapper.pdb
+C:\Users\tuan.vo\Desktop\git folder\OAuth_ASP_NET_API\SocialNetwork\SocialNetwork.Data\bin\Debug\Dapper.xml
+C:\Users\tuan.vo\Desktop\git folder\OAuth_ASP_NET_API\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.CoreCompileInputs.cache
+C:\Users\tuan.vo\Desktop\git folder\OAuth_ASP_NET_API\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.CopyComplete
+C:\Users\tuan.vo\Desktop\git folder\OAuth_ASP_NET_API\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.dll
+C:\Users\tuan.vo\Desktop\git folder\OAuth_ASP_NET_API\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.pdb
